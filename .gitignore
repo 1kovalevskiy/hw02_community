@@ -147,3 +147,4 @@ dmypy.json
 .vscode
 
 yatube_new_ignore/
+yatube/static/
